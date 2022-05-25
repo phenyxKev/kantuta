@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="120"
+   height="195.60001"
+   viewBox="0 0 120 195.60001"
+   sodipodi:docname="perfume.svg"
+   inkscape:version="1.1.2 (08b2f3d93c, 2022-04-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="true"
+     inkscape:snap-grids="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.94851951"
+     inkscape:cx="363.19759"
+     inkscape:cy="314.70096"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8">
+    <inkscape:grid
+       type="xygrid"
+       id="grid849"
+       originx="-105"
+       originy="-6.0000001" />
+  </sodipodi:namedview>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g8"
+     transform="translate(-105,-6)"
+     style="display:inline">
+    <g
+       id="g11839"
+       style="display:inline"
+       transform="matrix(0.4,0,0,0.4,63,3.6)">
+      <g
+         id="g10163"
+         transform="translate(0,-10)">
+        <path
+           id="rect853"
+           style="display:inline;opacity:1;fill:#1a1a1a;fill-rule:evenodd;stroke:none;stroke-width:6.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           d="m 8,47.599609 c -4,0 -8,4 -8,8 v 66.000001 66 c 0,4 4,8 8,8 h 104 c 4,0 8,-4 8,-8 v -66 -66.000001 c 0,-4 -4,-8 -8,-8 z m 38,26 h 28 c 6.648,0 12,5.352 12,12 v 32.000001 c 0,6.648 -5.352,12 -12,12 H 46 c -6.648,0 -12,-5.352 -12,-12 V 85.599609 c 0,-6.648 5.352,-12 12,-12 z"
+           transform="matrix(2.5,0,0,2.5,105,16)" />
+      </g>
+      <g
+         id="g10150">
+        <path
+           style="opacity:1;fill:none;stroke:#1a1a1a;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 210,130 v -25 c -20,0 -20,0 -20,-15 h 130 c 0,15 0,15 -20,15 v 25 z"
+           id="path2924"
+           sodipodi:nodetypes="ccccccc" />
+        <g
+           id="g6868"
+           transform="translate(-15)">
+          <path
+             style="opacity:1;fill:none;stroke:#1a1a1a;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="M 220,90 V 75 H 190 L 175,60 V 25 l 15,-15 h 160 l 15,15 v 35 l -15,15 h -30 v 15 z"
+             id="path4633" />
+          <path
+             style="opacity:1;fill:#ff0000;stroke:#1a1a1a;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="M 175,30 H 360"
+             id="path5567" />
+          <path
+             style="opacity:1;fill:#ff0000;stroke:#1a1a1a;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="M 180,55 H 365"
+             id="path5785" />
+          <path
+             style="opacity:1;fill:none;stroke:#1a1a1a;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="M 210,75 200,55 V 25 l 10,-15"
+             id="path5839"
+             sodipodi:nodetypes="cccc" />
+          <path
+             style="opacity:1;fill:none;stroke:#1a1a1a;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="M 330,75 340,55 V 25 L 330,10"
+             id="path6086"
+             sodipodi:nodetypes="cccc" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

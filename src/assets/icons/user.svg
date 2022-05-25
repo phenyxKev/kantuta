@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="462.30109"
+   height="549.16406"
+   viewBox="0 0 462.30109 549.16406"
+   sodipodi:docname="user.svg"
+   inkscape:version="1.1.2 (08b2f3d93c, 2022-04-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-page="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.007193"
+     inkscape:cx="224.88242"
+     inkscape:cy="232.82529"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8">
+    <inkscape:grid
+       type="xygrid"
+       id="grid827"
+       originx="-41.971846"
+       originy="-6.835739" />
+  </sodipodi:namedview>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g8"
+     transform="translate(-41.971843,-6.835739)">
+    <path
+       id="path950"
+       style="display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#1a1a1a;stroke-width:32;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
+       d="m 227.07812,12 c -60.75132,0 -100,49.248677 -100,110 1e-5,60.75132 39.24868,100 100,100 60.69977,0 100,-39.24868 100,-100 0,-60.751323 -39.24867,-110 -100,-110 z m -0.9121,257.16406 c -222.1549244,0 -214.087895,120.41812 -214.087895,227.5 0.323761,18.00209 14.495,32.5 32.5,32.5 H 409.57812 c 18.005,0 32.82376,-14.49791 32.5,-32.5 0,-107.51738 11.93298,-227.5 -215.9121,-227.5 z"
+       transform="translate(45.988514,10.835739)" />
+  </g>
+</svg>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="188"
+   height="204"
+   viewBox="0 0 188 204"
+   sodipodi:docname="leather.svg"
+   inkscape:version="1.1.2 (08b2f3d93c, 2022-04-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="true"
+     showguides="false"
+     inkscape:snap-page="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.76164757"
+     inkscape:cx="275.0616"
+     inkscape:cy="248.80274"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8">
+    <inkscape:grid
+       type="xygrid"
+       id="grid862"
+       originx="-235"
+       originy="755" />
+  </sodipodi:namedview>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g8"
+     transform="translate(-235,755)">
+    <path
+       id="path1089"
+       style="fill:#1a1a1a;stroke:none;stroke-width:0.4px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 305,-755 c -9.33049,22.63867 -26.63978,32.01198 -52,28 l -18,22 c 13.11087,16.28442 26.79892,32.4326 26,52 0.79892,19.5674 -12.88913,35.71558 -26,52 l 18,22 c 25.36022,-4.01198 42.66951,5.36133 52,28 h 24 24 c 9.33049,-22.63867 26.63978,-32.01198 52,-28 l 18,-22 c -13.11087,-16.28442 -26.79892,-32.4326 -26,-52 -0.79892,-19.5674 12.88913,-35.71558 26,-52 l -18,-22 c -25.36022,4.01198 -42.66951,-5.36133 -52,-28 h -24 z" />
+  </g>
+</svg>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 541.77356 547.65216"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="cart.svg"
+   width="541.77356"
+   height="547.65216"
+   inkscape:version="1.1.2 (08b2f3d93c, 2022-04-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-page="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.9494058"
+     inkscape:cx="173.64266"
+     inkscape:cy="466.03946"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4">
+    <inkscape:grid
+       type="xygrid"
+       id="grid9037"
+       originx="-671.726"
+       originy="65.652148" />
+  </sodipodi:namedview>
+  <!--! Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+  <path
+     id="path9604"
+     style="fill:none;stroke:#1a1a1a;stroke-width:32;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 80.773999,85.652148 H 525.774 l -55,230.000002 h -345 z M 16,16.788555 C 44.145395,8.3099521 73.432606,65.817971 80.773999,85.652148 L 140.774,395.65215 h 330"
+     sodipodi:nodetypes="ccccccccc" />
+  <path
+     d="m 108.774,499.65215 c 0,-26.5 21.5,-48 48,-48 26.5,0 48,21.5 48,48 0,26.5 -21.5,48 -48,48 -26.5,0 -48,-21.5 -48,-48 z"
+     id="path10626"
+     style="fill:#1a1a1a;stroke:none" />
+  <path
+     d="m 492.774,499.65215 c 0,26.5 -21.5,48 -48,48 -26.5,0 -48,-21.5 -48,-48 0,-26.5 21.5,-48 48,-48 26.5,0 48,21.5 48,48 z"
+     id="path10647"
+     style="fill:#1a1a1a;stroke:none" />
+</svg>
