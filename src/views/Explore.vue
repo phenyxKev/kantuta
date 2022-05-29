@@ -1,6 +1,6 @@
 <template>
   <Header />
-  <Explore :products="products" />
+  <Explore :products="products" :API="API" />
 </template>
 
 <script>
@@ -12,18 +12,18 @@ export default {
   name: 'ExploreView',
   components: {
     Header,
-    Explore      
+    Explore    
   },
   data() {
     return {
-      products: []
+      products: [],
+      API: API
     }
   },
   methods: {
     async getProducts() {
       const resProducts = await fetch(`${API}/api/products/all`)
       const data = await resProducts.json()
-      console.log(`${API}/api/products/all`)
       return data
     }
   },

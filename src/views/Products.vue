@@ -1,6 +1,6 @@
 <template>
   <Header />
-  <Cards :products="products" />
+  <Cards :products="products" :API="API" />
   <Footer />
   <Nav />
 </template>
@@ -22,7 +22,8 @@ export default {
   },
   data() {
     return {
-      products: []
+      products: [],
+      API: API
     }
   },
   methods: {

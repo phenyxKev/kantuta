@@ -2,34 +2,32 @@
    <section class="info">
       <h2>Información</h2>
       <h3>Que es Kantuta ?</h3>
-      <p>Kantuta es una plataforma web de compra/venta de articulos bolivianos ubicada en Valencia, España.</p>
+      <p>Kantuta es una plataforma web e-commerce de venta de productos bolivianos (cuero, ropa, perfume, artesanía) ubicada en Valencia, España.</p>
+
+      <h3>Geolocalisación</h3>
+      <p>Ofrecemos servicio en la zona de Valencia capital (Con la intención mas adelante de cubrir toda España).</p>
       
-      <h3>Que productos vendemos ?</h3>
-      <p>En especial la artesania, ropa de moda latinoamericana, cuero y productos de belleza.</p>
-      
-      <h3>Donde trabajamos ?</h3>
-      <p>En Valencia y alrededores. Pero mas adelante buscaremos ofrecer una cobertura a nivel nacional y cubrir toda España.</p>
-      
-      <h3>Como hago para recibir mi compra ?</h3>
+      <h3>Política de privacidad</h3>
       <p>
-         Si se encuentra en Valencia ciudad nosotros mandamos gratuitamente un repartidor a entregar el pedido. Si prefiere puede
-         venir recogerlo directamente a la oficina. Tambien podemos mandarlo por amazon (gastos de envio aparte).
+         No guardamos datos privados de los visitantes de la pagina web.
+         Utilizamos el servicio Google Analytics para optimizar el SEO.
+         Guardamos el email de los suscritores a nuestra newsletter para poder mandarles email directamente.
       </p>
 
-      <h3>Me gustaria vender mis productos mediante la plataforma. Puedo hacerlo ?</h3>
-      <p>Claro que si. Si los productos propuestos son coherentes con el proposito de la pagina, pide una cita aqui:
-         <a href="mailto:kantuta@gmail.com" target="_blank">kantuta@gmail.com</a>
-         y nos organizamos.
-      </p>
-      
-      <h3>Me gustaria trabajar con Kantuta. Como hago ?</h3>
-      <p>Mandanos un email: <a href="mailto:kantuta@gmail.com" target="_blank">kantuta@gmail.com</a> y nos pondremos en contacto contigo.</p>
-
-      <h3>Puedo hacer una devolución ?</h3>
+      <h3>Condiciones de uso</h3>
       <p>
-         Kantuta no acepta devoluciónes. Pero si realmente hay un problema que viene de nuestra parte no dudes en
-         ponerse en contacto con nosotros mediante este <router-link to="">formulario</router-link> y veremos una solución.
+         Kantuta no acepta devoluciónes.
+         Puedes <router-link to="/contact">contactarnos</router-link> si quieres ver/probar la ropa antes de comprar.
       </p>
+      <p>
+         Kantuta es una idea y creación original de <a href="https://github.com/phenyxKev">PhenyxKev</a>.
+         No se permite copiar el código ni imitar el business model
+         (es decir una plataforma web e-commerce de ventra de productos latinoamericanos para el mercado Español).
+         No duden en mandar un email a : <a href="mailto:kevin.jgnetworks@gmail.com">kevin.jgnetworks@gmail.com</a> para tener más información.
+      </p>
+
+      <h3>Política de cookies</h3>
+      <p>Kantuta no utiliza cookies.</p>
    </section>
 </template>
 

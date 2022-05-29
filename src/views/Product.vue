@@ -1,5 +1,5 @@
 <template>
-  <Item :item="item" :gallery="gallery" />
+  <Item :item="item" :gallery="gallery" :API="API"/>
   <Footer />
   <Nav />
 </template>
@@ -20,7 +20,8 @@ export default {
   data() {
     return {
       item: {},
-      gallery: 0
+      gallery: 0,
+      API: API
     }
   },
   methods: {

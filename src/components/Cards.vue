@@ -3,7 +3,7 @@
     <h2>{{ cat }}</h2>
     <article v-for="product in products" :key="product._id">
       <div class="img-container">
-        <img :src="`http://localhost:3000/images/${product.img[0]}`" :alt="product.img[0]" />
+        <img :src="`${API}/images/${product.img[0]}`" :alt="product.img[0]" />
       </div>
       <div class="info">
         <router-link :to="`/product/${product._id}`">
@@ -24,6 +24,7 @@ export default {
   name: 'CardComp',
   props: {
     products: Array,
+    API: String
   },
   computed: {
     cat: function (category) {

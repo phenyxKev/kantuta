@@ -16,7 +16,7 @@
     >
       <h2>{{ item.name }}</h2>
       <h4>{{ item.price }} €</h4>
-      <img :src="`http://localhost:3000/images/${item.img[0]}`" :alt="item.img[0]">
+      <img :src="`${API}/images/${item.img[0]}`" :alt="item.img[0]">
       <router-link class="btn" :to="`/product/${item._id}`">Mas detalles</router-link>
     </div>
   </div>
@@ -26,7 +26,8 @@
 export default {
   name: 'ExploreComp',
   props: {
-    products: Array
+    products: Array,
+    API: String
   },
   data() {
     return {

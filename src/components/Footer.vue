@@ -2,9 +2,9 @@
    <footer>
       <div class="footer general">
          <h3>Kantuta</h3>
-         <router-link to="/info">Funcionamiento de la app</router-link>
-         <router-link to="/info">Condiciones generales de uso</router-link> 
-         <router-link to="/info">Datos y privacidad</router-link>    
+         <router-link to="/info">Condiciones de uso</router-link>
+         <router-link to="/info">Política de privacidad</router-link> 
+         <router-link to="/info">Política de cookies</router-link>    
       </div>
       <div class="footer help">
          <h3>Asistencia</h3>
@@ -26,7 +26,7 @@
          <router-link to="#"><i class="fab fa-instagram"></i></router-link>
       </div>
       <div id="credits">
-         <p>&copy; 2022 / <router-link to="#">Phenyx Solutions</router-link> 🇪🇸</p>
+         <p>&copy; 2022 / <a href="https://github.com/phenyxKev">Phenyx Solutions</a> 🇪🇸</p>
          <p>Todos los derechos reservados</p>
       </div>
    </footer>

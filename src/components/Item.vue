@@ -3,7 +3,7 @@
     <div class="gallery">
       <button @click="$router.go(-1)"><i class="fas fa-arrow-left"></i></button>
       <button @click="expand(item.img)"><i class="fa fa-expand"></i></button>
-      <img v-for="(pic, i) in item.img" :key="i" :src="`http://localhost:3000/images/${pic}`" alt="pic">
+      <img v-for="(pic, i) in item.img" :key="i" :src="`${API}/images/${pic}`" :alt="pic">
       <div class="slideInfo"><i class="fas fa-camera"></i> <span>{{ gallery }}</span></div>
     </div>
 
@@ -73,7 +73,8 @@ export default {
   name: 'ItemComp',
   props: {
     item: Object,
-    gallery: Number
+    gallery: Number,
+    API: String
   },
   data() {
     return {
@@ -107,8 +108,8 @@ export default {
       shareUrl = shareUrl + encodeURIComponent(document.title) + " " + encodeURIComponent(myUrl)
       window.open(shareUrl, "Compartir", `scrollbars=yes, width=${window.innerWidth}, height=640, top=0, left=0`)
     },
-    expand(gallery) {
-      console.log(gallery)
+    expand(itemImg) {
+      console.log(itemImg)
     }
   }
 }
